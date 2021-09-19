@@ -1,0 +1,19 @@
+
+* TODO This is a todo file
+* A Project
+*** TODO A Project's first todo
+    SCHEDULED: <2021-10-21 Sun 17:00> DEADLINE: <2021-10-21 Sun 17:00>
+*** TODO A Project's second todo
+*** DOING This todo is in progress
+*** DONE This todo is done
+    SCHEDULED: <2021-10-21 Sun 17:00> DEADLINE: <2021-10-21 Sun 17:00> DONE: [2021-09-19 Sun 10:42]
+* Another Project
+*** TODO Another Project's first todo
+*** TODO Another Project's second todo
+*** DOING This todo is also in progress
+*** DONE This todo is also done
+* TODO Another freestanding todo
+* A Top level heading without a tag
+* DOING A Top level in-progress todo
+* WAITING A Top level waiting todo
+* DONE A Top level completed todo

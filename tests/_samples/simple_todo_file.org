@@ -1,0 +1,16 @@
+* TODO This is a todo file
+* A Project
+*** TODO A Project's first todo
+*** TODO A Project's second todo
+*** DOING This todo is in progress
+*** DONE This todo is done
+* Another Project
+*** TODO Another Project's first todo
+*** TODO Another Project's second todo
+*** DOING This todo is also in progress
+*** DONE This todo is also done
+* TODO Another freestanding todo
+* A Top level heading without a tag
+* DOING A Top level in-progress todo
+* WAITING A Top level waiting todo
+* DONE A Top level completed todo

@@ -1,0 +1,36 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+click = "*"
+orgparse = "*"
+pyyaml = "*"
+commonmark = "*"
+
+[dev-packages]
+alabaster = "*"
+autopep8 = "*"
+cookiecutter = "*"
+flake8 = "*"
+jedi = "*"
+mypy = "*"
+myst-parser = "*"
+pylint = "*"
+pytest = "*"
+pytest-click = "*"
+pytest-cookies = "*"
+pytest-cov = "*"
+pytest-dotenv = "*"
+pytest-factoryboy = "*"
+pytest-factoryboy-fixtures = "*"
+tox = "*"
+watchdog = "*"
+yapf = "*"
+
+[requires]
+python_version = "3.9"
+
+[pipenv]
+allow_prereleases = true
